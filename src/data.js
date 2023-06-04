@@ -1,34 +1,26 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Add WebAuthn2 Support for Plone",
+    subtitle: "Python and Zope",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Contributed to Open Source Content Management System Plone during Google Summer of Code 2023. Added password‑less authentication to Plone 6 using WebAuthn, a password‑less web standard by W3C. Developed Backend using Python and Zope Application server and front end pages using Zope templates and Javascript.",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Data Transmission Reduction using Edge Computing in Medical Recall",
+    subtitle: "Distributed Systems and Edge Computing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An Edge Computing application that uses Constrained Application Protocol for data transmission from an edge node to a Cloud Server. Reduced the amount of data transmitted upto 95% by building a CoAP proxy using aicoap library,",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Add‑in for Microsoft Office Outlook",
+    subtitle: "C-Sharp, ASP.Net",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Coded an Add‑in for Microsoft Office Outlook to automate sending 200+ emails with customized content for each mail.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
 ];
@@ -51,10 +43,12 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "C/C++ Programming",
+  "Python",
+  "Java",
+  "C-sharp",
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "React.js",
+  "Node.js",
+  "Machine Learning"
 ];
