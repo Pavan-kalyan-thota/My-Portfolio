@@ -10,16 +10,16 @@ export default function About() {
             <br className="hidden lg:inline-block" />I love Programming.
           </h1>
           <p className="mb-8 leading-relaxed">
-            A dedicated programmer with Master's degree in Computer Science. 
+            A Persistent programmer with Master's degree in Computer Science. 
             Equipped with strong analytical, and communication skills, coupled with a deep understanding of Software Engineering. 
-            I am skilled in C/C++, Python, JavaScript, ASP.NET and has a proven track record of delivering results and driving operational efficiency. 
-            I thrive in dynamic environments and is committed to continuous growth and professional development.
+            I am skilled in C/C++, Python, JavaScript, ASP.NET and has a proven track record of delivering results.
+            I thrive in dynamic environments and am committed to continuous growth and professional development.
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Say Hello!
             </a>
             <a
               href="#projects"
